@@ -1,0 +1,43 @@
+#hero {
+  background-image: url("./psychologybg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+}
+
+#overlay {
+  background-image: linear-gradient(
+    to right,
+    rgba(36, 37, 37, 0.678),
+    rgba(187, 178, 178, 0.568)
+  );
+  padding: 0px;
+  margin: 0px;
+  width: 100%;
+  min-height: 100vh;
+}
+* {
+  padding: 0px;
+  margin: 0px;
+}
+#tagline {
+  margin-top: 10%;
+  margin-left: 10%;
+}
+#makeappointment {
+  box-shadow: 0 0.5rem 1rem 0 rgb(2, 9, 20);
+}
+#firstpart {
+  font-size: 50px;
+}
+#secondpart {
+  font-size: 50px;
+}
+.carousel-item img {
+  width: 70px;
+}
+nav.scrolled {
+  background-color: rgb(71, 97, 112);
+  opacity: 0.98;
+}
