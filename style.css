@@ -38,10 +38,3 @@ navbar-dark.color-changed {
 #secondpart {
   font-size: 50px;
 }
-.carousel-item img {
-  width: 70px;
-}
-nav.scrolled {
-  background-color: rgb(71, 97, 112);
-  opacity: 0.98;
-}
