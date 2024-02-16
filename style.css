@@ -26,8 +26,9 @@ navbar-dark.color-changed {
   box-sizing: border-box;
 }
 #tagline {
-  margin-top: 10%;
-  margin-left: 10%;
+  margin: 10%;
+  margin-right: 10%;
+  width: 80%;
 }
 #makeappointment {
   box-shadow: 0 0.5rem 1rem 0 rgb(2, 9, 20);
